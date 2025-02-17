@@ -146,4 +146,5 @@ Moeda: USD
 
 Quantidade Total: 8 unidades
 
-Receita Total:
+Receita Total: 640 USD
+
